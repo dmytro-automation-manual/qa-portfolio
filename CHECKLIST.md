@@ -14,4 +14,4 @@ Checklist
 | Test documentation updated | [x] |
 | Bug reports written clearly with reproduction steps | [x] |
 | Cross-browser checks (Chrome, Firefox, Safari, Edge) | [x] |
-| Mobile responsiveness testing (if applicable) | [x] |
+| Mobile responsiveness testing  | [x] |
